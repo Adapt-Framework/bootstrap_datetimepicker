@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+  <bundle>
+    <label>Datetime Picker for Bootstrap 3</label>
+    <name>bootstrap_datetimepicker</name>
+    <type>framework</type>
+    <version>4.14.30</version>
+    <namespace>/frameworks/bootstrap_datetimepicker</namespace>
+    <description />
+    <license>MIT</license>
+    <copyright>2015 Eonadan</copyright>
+    <depends_on>
+      <bundle>bootstrap</bundle>
+    </depends_on>
+  </bundle>
+</adapt_framework>
