@@ -5,13 +5,19 @@
     <name>bootstrap_datetimepicker</name>
     <type>framework</type>
     <version>4.14.30</version>
-    <namespace>/frameworks/bootstrap_datetimepicker</namespace>
+    <namespace>\bootstrap\datetimepicker</namespace>
     <description />
     <license>MIT</license>
     <copyright>2015 Eonadan</copyright>
     <depends_on>
-      <bundle>bootstrap</bundle>
-      <bundle>moment</bundle>
+      <bundle>
+        <name>bootstrap</name>
+        <version>3.3</version>
+      </bundle>
+      <bundle>
+        <name>moment</name>
+        <version>2.10</version>
+      </bundle>
     </depends_on>
   </bundle>
 </adapt_framework>
