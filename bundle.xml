@@ -6,6 +6,8 @@
     <type>framework</type>
     <version>4.14.30</version>
     <namespace>\bootstrap\datetimepicker</namespace>
+    <version_status>release</version_status>
+    <availability>public</availability>
     <description />
     <license>MIT</license>
     <copyright>2015 Eonadan</copyright>
