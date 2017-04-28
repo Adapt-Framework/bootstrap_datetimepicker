@@ -3,12 +3,18 @@
   <bundle>
     <label>Datetime Picker for Bootstrap 3</label>
     <name>bootstrap_datetimepicker</name>
-    <type>framework</type>
+    <type>ui</type>
     <version>4.14.30</version>
+    <version_status>release</version_status>
+    <availability>public</availability>
     <namespace>\bootstrap\datetimepicker</namespace>
     <description />
     <license>MIT</license>
     <copyright>2015 Eonadan</copyright>
+    <vendor>
+        <name>Adapt Framework</name>
+        <website>https://www.adaptframework.com</website>
+    </vendor>
     <depends_on>
       <bundle>
         <name>bootstrap</name>
